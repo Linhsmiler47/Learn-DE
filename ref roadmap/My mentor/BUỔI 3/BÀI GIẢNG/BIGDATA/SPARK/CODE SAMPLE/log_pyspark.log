@@ -1,0 +1,7 @@
+2024-11-23 15:43:49,788 - INFO - Start time: 2024-11-23 15:43:49
+2024-11-23 15:43:49,789 - INFO - Spark session started successfully.
+2024-11-23 15:43:49,790 - INFO - Reading CSV file from path: C:\Users\Admin\Desktop\output\citizens_data_small.csv
+2024-11-23 15:43:54,210 - INFO - Searching for word 'French' in column 'country'...
+2024-11-23 15:43:54,828 - INFO - Found 140 rows containing 'French'.
+2024-11-23 15:43:55,217 - INFO - End time: 2024-11-23 15:43:55
+2024-11-23 15:43:55,218 - INFO - Elapsed time: 5.43 seconds

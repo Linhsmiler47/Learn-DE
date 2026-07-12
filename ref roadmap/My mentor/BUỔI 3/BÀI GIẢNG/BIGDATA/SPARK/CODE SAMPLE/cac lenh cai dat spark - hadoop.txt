@@ -1,0 +1,179 @@
+- sudo chown -R hadoopuser:hadoopuser /usr/local/hadoop
+- sudo chown -R hadoopuser:hadoopuser /usr/local/hadoop/dfs
+- sudo chown -R hadoopuser:hadoopuser /usr/local/hadoop/mapreduce
+
+-su hadoopuser
+-nano ~/.bashrc
+# Thiết lập JAVA_HOME
+export JAVA_HOME=/usr/lib/jvm/java-8-openjdk-amd64
+export PATH=$PATH:$JAVA_HOME/bin
+
+# Thiết lập HADOOP_HOME
+export HADOOP_HOME=/opt/hadoop-3.4.0
+export HADOOP_CONF_DIR=$HADOOP_HOME/etc/hadoop
+export PATH=$PATH:$HADOOP_HOME/bin:$HADOOP_HOME/sbin
+
+--> thêm này vào file
+--> hdfs namenode -format: format lại namenode
+
+export HADOOP_HOME=/opt/hadoop-3.4.0
+export HADOOP_CONF_DIR=$HADOOP_HOME/etc/hadoop
+export PATH=$PATH:$HADOOP_HOME/bin:$HADOOP_HOME/sbin
+
+
+mkdir -p /usr/hadoop/dfs/namenode
+mkdir -p /usr/hadoop/dfs/datanode1
+
+
+hdfs dfs -put /home/hadoopuser/loan_data.csv /user/vanpl/demo/
+
+
+cp shc_db.sqlite /var/www/shc/bk/shc_db_bk.sqlite
+
+
+cp app.py /var/www/shc/bk/app_new.py
+
+cp /var/www/shc/bk/app_bk.py /var/www/shc/app.py
+
+cp /var/www/shc/bk/app_new.py /var/www/shc/app.py
+
+
+sudo apt update
+sudo apt install openjdk-8-jdk -y
+
+
+wget https://dlcdn.apache.org/spark/spark-3.5.3/spark-3.5.3-bin-hadoop3.tgz
+
+tar -xvzf spark-3.5.3-bin-hadoop3.tgz
+
+nano ~/.bashrc
+
+export SPARK_HOME=~/spark-3.5.3-bin-hadoop3
+export PATH=$SPARK_HOME/bin:$PATH
+
+source ~/.bashrc
+
+nano $SPARK_HOME/conf/spark-env.sh
+
+export SPARK_WORKER_CORES=2
+export SPARK_WORKER_MEMORY=2G
+export SPARK_WORKER_INSTANCES=1
+
+
+nano $SPARK_HOME/conf/slaves
+
+$SPARK_HOME/sbin/start-master.sh
+
+$SPARK_HOME/sbin/start-worker.sh spark://172.30.2.98:7077
+
+$SPARK_HOME/sbin/stop-worker.sh spark://172.30.2.98:7077
+
+
+slave : 
+
+export SPARK_MASTER=spark://172.30.2.98:7077
+export SPARK_LOCAL_IP=172.30.2.58
+export SPARK_WORKER_CORES=2
+export SPARK_WORKER_MEMORY=2g
+
+nano /etc/hosts
+172.30.2.98   spark
+
+
+ssh-keygen -t rsa
+ssh-copy-id root@<Master_IP>
+
+ssh-copy-id root@172.30.2.98
+
+ssh-copy-id root@172.30.2.58
+
+ssh-copy-id root@172.30.2.90
+
+ssh-copy-id hadoop@172.30.2.171
+
+ssh-copy-id hadoop@172.30.2.36
+
+ssh-copy-id hadoop@172.30.2.159
+
+
+spark-submit --master spark://172.30.2.98:7077 /root/data_sample/test_pyspark.py
+
+
+scp /root/data_sample/citizens_data_small.csv root@172.30.2.58:/root/data_sample/citizens_data_small.csv
+scp /root/data_sample/citizens_data_small.csv root@172.30.2.90:/root/data_sample/citizens_data_small.csv
+
+nano $SPARK_HOME/conf/spark-defaults.conf
+
+spark.ui.enabled=true
+spark.eventLog.enabled=true
+spark.eventLog.dir=/root/data_sample/eventlogs
+
+
+$SPARK_HOME/sbin/stop-worker.sh
+
+lsblk
+growpart /dev/sda 1
+Xong lệnh này thì :
+resize2fs -f /dev/sda1
+
+
+sudo mv hadoop-3.3.6 /opt/hadoop
+
+nano ~/.bashrc
+
+export HADOOP_HOME=/opt/hadoop
+export PATH=$PATH:$HADOOP_HOME/bin:$HADOOP_HOME/sbin
+export HADOOP_CONF_DIR=$HADOOP_HOME/etc/hadoop
+export JAVA_HOME=/usr/lib/jvm/java-11-openjdk-amd64
+
+source ~/.bashrc
+
+$HADOOP_HOME/etc/hadoop/core-site.xml
+
+<configuration>
+  <property>
+    <name>fs.defaultFS</name>
+    <value>hdfs://172.30.2.159:9000</value>
+  </property>
+</configuration>
+
+
+$HADOOP_HOME/etc/hadoop/hdfs-site.xml
+
+
+<configuration>
+  <property>
+    <name>dfs.replication</name>
+    <value>2</value>
+  </property>
+  <property>
+    <name>dfs.namenode.name.dir</name>
+    <value>file:///opt/hadoop/hdfs/namenode</value>
+  </property>
+  <property>
+    <name>dfs.datanode.data.dir</name>
+    <value>file:///opt/hadoop/hdfs/datanode</value>
+  </property>
+  <property>
+	<name>dfs.namenode.datanode.registration.ip-hostname-check</name>
+	<value>false</value>
+  </property>
+  <property>
+	<name>dfs.datanode.hostname</name>
+	<value>172.30.2.171</value>
+  </property>
+</configuration>
+
+nano $HADOOP_HOME/etc/hadoop/workers
+
+172.30.2.159
+172.30.2.36
+172.30.2.171
+
+$HADOOP_HOME/etc/hadoop/hadoop-env.sh
+
+export JAVA_HOME=/usr/lib/jvm/java-11-openjdk-amd64
+
+start-dfs.sh
+
+hdfs --daemon start datanode

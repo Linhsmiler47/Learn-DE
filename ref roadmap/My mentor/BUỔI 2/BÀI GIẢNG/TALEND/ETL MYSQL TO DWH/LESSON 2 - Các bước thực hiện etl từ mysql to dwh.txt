@@ -1,0 +1,5 @@
+1. Xây dựng các bảng target ở schema Staging ở DB DWH
+2. Chuẩn bị 1 account có thể truy vấn được dữ liệu từ DB Source ( Mysql )
+3. Chuẩn bị 1 account có thể thêm , xoá , sửa dữ liệu ở các bảng target đã tạo ở bước 1
+4. Xây dựng job Talend để thực hiện việc rút trích dữ liệu các bảng từ DB Source đổ về DWH 
+5. Build job và deploy job lên airflow để thiết lập lịch chạy.

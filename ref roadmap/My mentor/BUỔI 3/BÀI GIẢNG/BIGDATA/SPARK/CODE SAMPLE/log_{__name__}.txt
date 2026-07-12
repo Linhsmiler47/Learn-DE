@@ -1,0 +1,259 @@
+2024-11-27 10:53:09,161 [MainThread] Start time: 2024-11-27 10:53:09
+2024-11-27 10:53:09,163 [MainThread] Active threads count: 1
+2024-11-27 10:53:09,164 [Thread-1] Bắt đầu đọc file: C:\Users\Admin\Desktop\output\splitfiles\citizens_data_spit_1.txt
+2024-11-27 10:53:09,164 [MainThread] Active threads count: 2
+2024-11-27 10:53:09,165 [Thread-1] Bắt đầu trả cho main thread
+2024-11-27 10:53:09,166 [Thread-2] Bắt đầu đọc file: C:\Users\Admin\Desktop\output\splitfiles\citizens_data_spit_10.txt
+2024-11-27 10:53:09,166 [MainThread] Active threads count: 3
+2024-11-27 10:53:09,166 [Thread-2] Bắt đầu trả cho main thread
+2024-11-27 10:53:09,167 [Thread-3] Bắt đầu đọc file: C:\Users\Admin\Desktop\output\splitfiles\citizens_data_spit_11.txt
+2024-11-27 10:53:09,167 [MainThread] Active threads count: 4
+2024-11-27 10:53:09,168 [Thread-3] Bắt đầu trả cho main thread
+2024-11-27 10:53:09,169 [Thread-4] Bắt đầu đọc file: C:\Users\Admin\Desktop\output\splitfiles\citizens_data_spit_12.txt
+2024-11-27 10:53:09,169 [MainThread] Active threads count: 5
+2024-11-27 10:53:09,170 [Thread-4] Bắt đầu trả cho main thread
+2024-11-27 10:53:09,170 [Thread-5] Bắt đầu đọc file: C:\Users\Admin\Desktop\output\splitfiles\citizens_data_spit_13.txt
+2024-11-27 10:53:09,171 [MainThread] Active threads count: 6
+2024-11-27 10:53:09,171 [Thread-5] Bắt đầu trả cho main thread
+2024-11-27 10:53:09,172 [Thread-6] Bắt đầu đọc file: C:\Users\Admin\Desktop\output\splitfiles\citizens_data_spit_14.txt
+2024-11-27 10:53:09,172 [MainThread] Active threads count: 7
+2024-11-27 10:53:09,173 [Thread-6] Bắt đầu trả cho main thread
+2024-11-27 10:53:09,173 [Thread-7] Bắt đầu đọc file: C:\Users\Admin\Desktop\output\splitfiles\citizens_data_spit_15.txt
+2024-11-27 10:53:09,174 [MainThread] Active threads count: 8
+2024-11-27 10:53:09,174 [Thread-7] Bắt đầu trả cho main thread
+2024-11-27 10:53:09,175 [Thread-8] Bắt đầu đọc file: C:\Users\Admin\Desktop\output\splitfiles\citizens_data_spit_16.txt
+2024-11-27 10:53:09,175 [MainThread] Active threads count: 9
+2024-11-27 10:53:09,176 [Thread-8] Bắt đầu trả cho main thread
+2024-11-27 10:53:09,208 [Thread-9] Bắt đầu đọc file: C:\Users\Admin\Desktop\output\splitfiles\citizens_data_spit_17.txt
+2024-11-27 10:53:09,208 [MainThread] Active threads count: 10
+2024-11-27 10:53:09,208 [Thread-9] Bắt đầu trả cho main thread
+2024-11-27 10:53:09,241 [Thread-10] Bắt đầu đọc file: C:\Users\Admin\Desktop\output\splitfiles\citizens_data_spit_18.txt
+2024-11-27 10:53:09,241 [MainThread] Active threads count: 11
+2024-11-27 10:53:09,241 [Thread-10] Bắt đầu trả cho main thread
+2024-11-27 10:53:09,275 [Thread-11] Bắt đầu đọc file: C:\Users\Admin\Desktop\output\splitfiles\citizens_data_spit_19.txt
+2024-11-27 10:53:09,275 [MainThread] Active threads count: 12
+2024-11-27 10:53:09,276 [Thread-11] Bắt đầu trả cho main thread
+2024-11-27 10:53:09,278 [Thread-12] Bắt đầu đọc file: C:\Users\Admin\Desktop\output\splitfiles\citizens_data_spit_2.txt
+2024-11-27 10:53:09,278 [MainThread] Active threads count: 13
+2024-11-27 10:53:09,280 [Thread-12] Bắt đầu trả cho main thread
+2024-11-27 10:53:09,291 [Thread-13] Bắt đầu đọc file: C:\Users\Admin\Desktop\output\splitfiles\citizens_data_spit_20.txt
+2024-11-27 10:53:09,291 [MainThread] Active threads count: 14
+2024-11-27 10:53:09,293 [Thread-13] Bắt đầu trả cho main thread
+2024-11-27 10:53:09,298 [Thread-14] Bắt đầu đọc file: C:\Users\Admin\Desktop\output\splitfiles\citizens_data_spit_21.txt
+2024-11-27 10:53:09,298 [MainThread] Active threads count: 15
+2024-11-27 10:53:09,298 [Thread-14] Bắt đầu trả cho main thread
+2024-11-27 10:53:09,308 [Thread-15] Bắt đầu đọc file: C:\Users\Admin\Desktop\output\splitfiles\citizens_data_spit_22.txt
+2024-11-27 10:53:09,308 [MainThread] Active threads count: 16
+2024-11-27 10:53:09,309 [Thread-15] Bắt đầu trả cho main thread
+2024-11-27 10:53:09,310 [Thread-16] Bắt đầu đọc file: C:\Users\Admin\Desktop\output\splitfiles\citizens_data_spit_23.txt
+2024-11-27 10:53:09,310 [MainThread] Active threads count: 17
+2024-11-27 10:53:09,312 [Thread-16] Bắt đầu trả cho main thread
+2024-11-27 10:53:09,999 [Thread-5] Bắt đầu đóng băng các thread khác để chạy thread thiện tại
+2024-11-27 10:53:10,471 [Thread-10] Bắt đầu đóng băng các thread khác để chạy thread thiện tại
+2024-11-27 10:53:11,131 [Thread-6] Bắt đầu đóng băng các thread khác để chạy thread thiện tại
+2024-11-27 10:53:11,232 [Thread-7] Bắt đầu đóng băng các thread khác để chạy thread thiện tại
+2024-11-27 10:53:11,232 [Thread-11] Bắt đầu đóng băng các thread khác để chạy thread thiện tại
+2024-11-27 10:53:11,494 [Thread-3] Bắt đầu đóng băng các thread khác để chạy thread thiện tại
+2024-11-27 10:53:11,973 [Thread-13] Bắt đầu đóng băng các thread khác để chạy thread thiện tại
+2024-11-27 10:53:12,018 [Thread-15] Bắt đầu đóng băng các thread khác để chạy thread thiện tại
+2024-11-27 10:53:12,968 [Thread-16] Bắt đầu đóng băng các thread khác để chạy thread thiện tại
+2024-11-27 10:53:13,287 [Thread-1] Bắt đầu đóng băng các thread khác để chạy thread thiện tại
+2024-11-27 10:53:13,490 [Thread-2] Bắt đầu đóng băng các thread khác để chạy thread thiện tại
+2024-11-27 10:53:13,491 [Thread-14] Bắt đầu đóng băng các thread khác để chạy thread thiện tại
+2024-11-27 10:53:13,491 [Thread-8] Bắt đầu đóng băng các thread khác để chạy thread thiện tại
+2024-11-27 10:53:14,051 [Thread-4] Bắt đầu đóng băng các thread khác để chạy thread thiện tại
+2024-11-27 10:53:14,052 [Thread-12] Bắt đầu đóng băng các thread khác để chạy thread thiện tại
+2024-11-27 10:53:14,052 [Thread-9] Bắt đầu đóng băng các thread khác để chạy thread thiện tại
+2024-11-27 10:53:14,052 [Thread-5] Hoàn thành đọc file: C:\Users\Admin\Desktop\output\splitfiles\citizens_data_spit_13.txt
+2024-11-27 10:53:14,261 [Thread-10] Hoàn thành đọc file: C:\Users\Admin\Desktop\output\splitfiles\citizens_data_spit_18.txt
+2024-11-27 10:53:14,261 [Thread-6] Hoàn thành đọc file: C:\Users\Admin\Desktop\output\splitfiles\citizens_data_spit_14.txt
+2024-11-27 10:53:14,354 [Thread-7] Hoàn thành đọc file: C:\Users\Admin\Desktop\output\splitfiles\citizens_data_spit_15.txt
+2024-11-27 10:53:14,642 [Thread-11] Hoàn thành đọc file: C:\Users\Admin\Desktop\output\splitfiles\citizens_data_spit_19.txt
+2024-11-27 10:53:14,733 [Thread-13] Hoàn thành đọc file: C:\Users\Admin\Desktop\output\splitfiles\citizens_data_spit_20.txt
+2024-11-27 10:53:14,734 [Thread-3] Hoàn thành đọc file: C:\Users\Admin\Desktop\output\splitfiles\citizens_data_spit_11.txt
+2024-11-27 10:53:14,734 [Thread-15] Hoàn thành đọc file: C:\Users\Admin\Desktop\output\splitfiles\citizens_data_spit_22.txt
+2024-11-27 10:53:14,825 [Thread-16] Hoàn thành đọc file: C:\Users\Admin\Desktop\output\splitfiles\citizens_data_spit_23.txt
+2024-11-27 10:53:14,919 [Thread-1] Hoàn thành đọc file: C:\Users\Admin\Desktop\output\splitfiles\citizens_data_spit_1.txt
+2024-11-27 10:53:15,101 [Thread-2] Hoàn thành đọc file: C:\Users\Admin\Desktop\output\splitfiles\citizens_data_spit_10.txt
+2024-11-27 10:53:15,101 [Thread-14] Hoàn thành đọc file: C:\Users\Admin\Desktop\output\splitfiles\citizens_data_spit_21.txt
+2024-11-27 10:53:15,197 [Thread-8] Hoàn thành đọc file: C:\Users\Admin\Desktop\output\splitfiles\citizens_data_spit_16.txt
+2024-11-27 10:53:15,290 [Thread-4] Hoàn thành đọc file: C:\Users\Admin\Desktop\output\splitfiles\citizens_data_spit_12.txt
+2024-11-27 10:53:15,385 [Thread-12] Hoàn thành đọc file: C:\Users\Admin\Desktop\output\splitfiles\citizens_data_spit_2.txt
+2024-11-27 10:53:15,483 [Thread-9] Hoàn thành đọc file: C:\Users\Admin\Desktop\output\splitfiles\citizens_data_spit_17.txt
+2024-11-27 10:53:15,699 [Thread-17] Bắt đầu đọc file: C:\Users\Admin\Desktop\output\splitfiles\citizens_data_spit_24.txt
+2024-11-27 10:53:15,699 [MainThread] Active threads count: 2
+2024-11-27 10:53:15,699 [Thread-17] Bắt đầu trả cho main thread
+2024-11-27 10:53:15,700 [Thread-18] Bắt đầu đọc file: C:\Users\Admin\Desktop\output\splitfiles\citizens_data_spit_25.txt
+2024-11-27 10:53:15,700 [MainThread] Active threads count: 3
+2024-11-27 10:53:15,700 [Thread-18] Bắt đầu trả cho main thread
+2024-11-27 10:53:15,701 [Thread-19] Bắt đầu đọc file: C:\Users\Admin\Desktop\output\splitfiles\citizens_data_spit_26.txt
+2024-11-27 10:53:15,702 [MainThread] Active threads count: 4
+2024-11-27 10:53:15,702 [Thread-19] Bắt đầu trả cho main thread
+2024-11-27 10:53:15,703 [Thread-20] Bắt đầu đọc file: C:\Users\Admin\Desktop\output\splitfiles\citizens_data_spit_27.txt
+2024-11-27 10:53:15,704 [MainThread] Active threads count: 5
+2024-11-27 10:53:15,704 [Thread-20] Bắt đầu trả cho main thread
+2024-11-27 10:53:15,705 [Thread-21] Bắt đầu đọc file: C:\Users\Admin\Desktop\output\splitfiles\citizens_data_spit_28.txt
+2024-11-27 10:53:15,705 [MainThread] Active threads count: 6
+2024-11-27 10:53:15,705 [Thread-21] Bắt đầu trả cho main thread
+2024-11-27 10:53:15,706 [Thread-22] Bắt đầu đọc file: C:\Users\Admin\Desktop\output\splitfiles\citizens_data_spit_29.txt
+2024-11-27 10:53:15,706 [MainThread] Active threads count: 7
+2024-11-27 10:53:15,707 [Thread-22] Bắt đầu trả cho main thread
+2024-11-27 10:53:15,708 [Thread-23] Bắt đầu đọc file: C:\Users\Admin\Desktop\output\splitfiles\citizens_data_spit_3.txt
+2024-11-27 10:53:15,708 [MainThread] Active threads count: 8
+2024-11-27 10:53:15,708 [Thread-23] Bắt đầu trả cho main thread
+2024-11-27 10:53:15,737 [Thread-24] Bắt đầu đọc file: C:\Users\Admin\Desktop\output\splitfiles\citizens_data_spit_30.txt
+2024-11-27 10:53:15,737 [MainThread] Active threads count: 9
+2024-11-27 10:53:15,737 [Thread-24] Bắt đầu trả cho main thread
+2024-11-27 10:53:15,770 [Thread-25] Bắt đầu đọc file: C:\Users\Admin\Desktop\output\splitfiles\citizens_data_spit_31.txt
+2024-11-27 10:53:15,770 [MainThread] Active threads count: 10
+2024-11-27 10:53:15,771 [Thread-25] Bắt đầu trả cho main thread
+2024-11-27 10:53:15,779 [Thread-26] Bắt đầu đọc file: C:\Users\Admin\Desktop\output\splitfiles\citizens_data_spit_32.txt
+2024-11-27 10:53:15,779 [MainThread] Active threads count: 11
+2024-11-27 10:53:15,780 [Thread-26] Bắt đầu trả cho main thread
+2024-11-27 10:53:15,792 [Thread-27] Bắt đầu đọc file: C:\Users\Admin\Desktop\output\splitfiles\citizens_data_spit_33.txt
+2024-11-27 10:53:15,793 [MainThread] Active threads count: 12
+2024-11-27 10:53:15,793 [Thread-27] Bắt đầu trả cho main thread
+2024-11-27 10:53:15,804 [Thread-28] Bắt đầu đọc file: C:\Users\Admin\Desktop\output\splitfiles\citizens_data_spit_34.txt
+2024-11-27 10:53:15,804 [MainThread] Active threads count: 13
+2024-11-27 10:53:15,805 [Thread-28] Bắt đầu trả cho main thread
+2024-11-27 10:53:15,809 [Thread-29] Bắt đầu đọc file: C:\Users\Admin\Desktop\output\splitfiles\citizens_data_spit_35.txt
+2024-11-27 10:53:15,809 [MainThread] Active threads count: 14
+2024-11-27 10:53:15,810 [Thread-29] Bắt đầu trả cho main thread
+2024-11-27 10:53:15,812 [Thread-30] Bắt đầu đọc file: C:\Users\Admin\Desktop\output\splitfiles\citizens_data_spit_36.txt
+2024-11-27 10:53:15,812 [MainThread] Active threads count: 15
+2024-11-27 10:53:15,812 [Thread-30] Bắt đầu trả cho main thread
+2024-11-27 10:53:15,822 [Thread-31] Bắt đầu đọc file: C:\Users\Admin\Desktop\output\splitfiles\citizens_data_spit_37.txt
+2024-11-27 10:53:15,822 [MainThread] Active threads count: 16
+2024-11-27 10:53:15,824 [Thread-31] Bắt đầu trả cho main thread
+2024-11-27 10:53:15,844 [Thread-32] Bắt đầu đọc file: C:\Users\Admin\Desktop\output\splitfiles\citizens_data_spit_38.txt
+2024-11-27 10:53:15,844 [MainThread] Active threads count: 17
+2024-11-27 10:53:15,880 [Thread-32] Bắt đầu trả cho main thread
+2024-11-27 10:53:16,565 [Thread-19] Bắt đầu đóng băng các thread khác để chạy thread thiện tại
+2024-11-27 10:53:17,631 [Thread-18] Bắt đầu đóng băng các thread khác để chạy thread thiện tại
+2024-11-27 10:53:17,980 [Thread-30] Bắt đầu đóng băng các thread khác để chạy thread thiện tại
+2024-11-27 10:53:18,991 [Thread-26] Bắt đầu đóng băng các thread khác để chạy thread thiện tại
+2024-11-27 10:53:19,210 [Thread-27] Bắt đầu đóng băng các thread khác để chạy thread thiện tại
+2024-11-27 10:53:19,430 [Thread-23] Bắt đầu đóng băng các thread khác để chạy thread thiện tại
+2024-11-27 10:53:19,531 [Thread-19] Hoàn thành đọc file: C:\Users\Admin\Desktop\output\splitfiles\citizens_data_spit_26.txt
+2024-11-27 10:53:19,532 [Thread-25] Bắt đầu đóng băng các thread khác để chạy thread thiện tại
+2024-11-27 10:53:19,532 [Thread-31] Bắt đầu đóng băng các thread khác để chạy thread thiện tại
+2024-11-27 10:53:19,734 [Thread-22] Bắt đầu đóng băng các thread khác để chạy thread thiện tại
+2024-11-27 10:53:19,734 [Thread-21] Bắt đầu đóng băng các thread khác để chạy thread thiện tại
+2024-11-27 10:53:19,939 [Thread-18] Hoàn thành đọc file: C:\Users\Admin\Desktop\output\splitfiles\citizens_data_spit_25.txt
+2024-11-27 10:53:19,940 [Thread-29] Bắt đầu đóng băng các thread khác để chạy thread thiện tại
+2024-11-27 10:53:19,940 [Thread-28] Bắt đầu đóng băng các thread khác để chạy thread thiện tại
+2024-11-27 10:53:20,337 [Thread-20] Bắt đầu đóng băng các thread khác để chạy thread thiện tại
+2024-11-27 10:53:20,337 [Thread-30] Hoàn thành đọc file: C:\Users\Admin\Desktop\output\splitfiles\citizens_data_spit_36.txt
+2024-11-27 10:53:20,390 [Thread-32] Bắt đầu đóng băng các thread khác để chạy thread thiện tại
+2024-11-27 10:53:20,686 [Thread-24] Bắt đầu đóng băng các thread khác để chạy thread thiện tại
+2024-11-27 10:53:20,887 [Thread-26] Hoàn thành đọc file: C:\Users\Admin\Desktop\output\splitfiles\citizens_data_spit_32.txt
+2024-11-27 10:53:20,983 [Thread-17] Bắt đầu đóng băng các thread khác để chạy thread thiện tại
+2024-11-27 10:53:21,077 [Thread-27] Hoàn thành đọc file: C:\Users\Admin\Desktop\output\splitfiles\citizens_data_spit_33.txt
+2024-11-27 10:53:21,077 [Thread-23] Hoàn thành đọc file: C:\Users\Admin\Desktop\output\splitfiles\citizens_data_spit_3.txt
+2024-11-27 10:53:21,179 [Thread-25] Hoàn thành đọc file: C:\Users\Admin\Desktop\output\splitfiles\citizens_data_spit_31.txt
+2024-11-27 10:53:21,273 [Thread-31] Hoàn thành đọc file: C:\Users\Admin\Desktop\output\splitfiles\citizens_data_spit_37.txt
+2024-11-27 10:53:21,374 [Thread-22] Hoàn thành đọc file: C:\Users\Admin\Desktop\output\splitfiles\citizens_data_spit_29.txt
+2024-11-27 10:53:21,468 [Thread-21] Hoàn thành đọc file: C:\Users\Admin\Desktop\output\splitfiles\citizens_data_spit_28.txt
+2024-11-27 10:53:21,580 [Thread-29] Hoàn thành đọc file: C:\Users\Admin\Desktop\output\splitfiles\citizens_data_spit_35.txt
+2024-11-27 10:53:21,671 [Thread-28] Hoàn thành đọc file: C:\Users\Admin\Desktop\output\splitfiles\citizens_data_spit_34.txt
+2024-11-27 10:53:21,764 [Thread-20] Hoàn thành đọc file: C:\Users\Admin\Desktop\output\splitfiles\citizens_data_spit_27.txt
+2024-11-27 10:53:21,871 [Thread-32] Hoàn thành đọc file: C:\Users\Admin\Desktop\output\splitfiles\citizens_data_spit_38.txt
+2024-11-27 10:53:21,978 [Thread-24] Hoàn thành đọc file: C:\Users\Admin\Desktop\output\splitfiles\citizens_data_spit_30.txt
+2024-11-27 10:53:22,095 [Thread-17] Hoàn thành đọc file: C:\Users\Admin\Desktop\output\splitfiles\citizens_data_spit_24.txt
+2024-11-27 10:53:22,269 [Thread-33] Bắt đầu đọc file: C:\Users\Admin\Desktop\output\splitfiles\citizens_data_spit_39.txt
+2024-11-27 10:53:22,270 [MainThread] Active threads count: 2
+2024-11-27 10:53:22,270 [Thread-33] Bắt đầu trả cho main thread
+2024-11-27 10:53:22,271 [Thread-34] Bắt đầu đọc file: C:\Users\Admin\Desktop\output\splitfiles\citizens_data_spit_4.txt
+2024-11-27 10:53:22,271 [MainThread] Active threads count: 3
+2024-11-27 10:53:22,271 [Thread-34] Bắt đầu trả cho main thread
+2024-11-27 10:53:22,272 [Thread-35] Bắt đầu đọc file: C:\Users\Admin\Desktop\output\splitfiles\citizens_data_spit_40.txt
+2024-11-27 10:53:22,272 [MainThread] Active threads count: 4
+2024-11-27 10:53:22,273 [Thread-35] Bắt đầu trả cho main thread
+2024-11-27 10:53:22,274 [Thread-36] Bắt đầu đọc file: C:\Users\Admin\Desktop\output\splitfiles\citizens_data_spit_41.txt
+2024-11-27 10:53:22,274 [MainThread] Active threads count: 5
+2024-11-27 10:53:22,274 [Thread-36] Bắt đầu trả cho main thread
+2024-11-27 10:53:22,275 [Thread-37] Bắt đầu đọc file: C:\Users\Admin\Desktop\output\splitfiles\citizens_data_spit_42.txt
+2024-11-27 10:53:22,275 [MainThread] Active threads count: 6
+2024-11-27 10:53:22,275 [Thread-37] Bắt đầu trả cho main thread
+2024-11-27 10:53:22,276 [Thread-38] Bắt đầu đọc file: C:\Users\Admin\Desktop\output\splitfiles\citizens_data_spit_43.txt
+2024-11-27 10:53:22,276 [MainThread] Active threads count: 7
+2024-11-27 10:53:22,277 [Thread-38] Bắt đầu trả cho main thread
+2024-11-27 10:53:22,278 [Thread-39] Bắt đầu đọc file: C:\Users\Admin\Desktop\output\splitfiles\citizens_data_spit_44.txt
+2024-11-27 10:53:22,278 [MainThread] Active threads count: 8
+2024-11-27 10:53:22,279 [Thread-39] Bắt đầu trả cho main thread
+2024-11-27 10:53:22,279 [Thread-40] Bắt đầu đọc file: C:\Users\Admin\Desktop\output\splitfiles\citizens_data_spit_45.txt
+2024-11-27 10:53:22,279 [MainThread] Active threads count: 9
+2024-11-27 10:53:22,280 [Thread-40] Bắt đầu trả cho main thread
+2024-11-27 10:53:22,308 [Thread-41] Bắt đầu đọc file: C:\Users\Admin\Desktop\output\splitfiles\citizens_data_spit_46.txt
+2024-11-27 10:53:22,308 [MainThread] Active threads count: 10
+2024-11-27 10:53:22,308 [Thread-41] Bắt đầu trả cho main thread
+2024-11-27 10:53:22,337 [Thread-42] Bắt đầu đọc file: C:\Users\Admin\Desktop\output\splitfiles\citizens_data_spit_47.txt
+2024-11-27 10:53:22,337 [MainThread] Active threads count: 11
+2024-11-27 10:53:22,337 [Thread-42] Bắt đầu trả cho main thread
+2024-11-27 10:53:22,351 [Thread-43] Bắt đầu đọc file: C:\Users\Admin\Desktop\output\splitfiles\citizens_data_spit_48.txt
+2024-11-27 10:53:22,351 [MainThread] Active threads count: 12
+2024-11-27 10:53:22,352 [Thread-43] Bắt đầu trả cho main thread
+2024-11-27 10:53:22,359 [Thread-44] Bắt đầu đọc file: C:\Users\Admin\Desktop\output\splitfiles\citizens_data_spit_49.txt
+2024-11-27 10:53:22,359 [MainThread] Active threads count: 13
+2024-11-27 10:53:22,360 [Thread-44] Bắt đầu trả cho main thread
+2024-11-27 10:53:22,360 [Thread-45] Bắt đầu đọc file: C:\Users\Admin\Desktop\output\splitfiles\citizens_data_spit_5.txt
+2024-11-27 10:53:22,360 [MainThread] Active threads count: 14
+2024-11-27 10:53:22,360 [Thread-45] Bắt đầu trả cho main thread
+2024-11-27 10:53:22,370 [Thread-46] Bắt đầu đọc file: C:\Users\Admin\Desktop\output\splitfiles\citizens_data_spit_50.txt
+2024-11-27 10:53:22,370 [MainThread] Active threads count: 15
+2024-11-27 10:53:22,371 [Thread-46] Bắt đầu trả cho main thread
+2024-11-27 10:53:22,376 [Thread-47] Bắt đầu đọc file: C:\Users\Admin\Desktop\output\splitfiles\citizens_data_spit_51.txt
+2024-11-27 10:53:22,376 [MainThread] Active threads count: 16
+2024-11-27 10:53:22,377 [Thread-47] Bắt đầu trả cho main thread
+2024-11-27 10:53:22,391 [Thread-48] Bắt đầu đọc file: C:\Users\Admin\Desktop\output\splitfiles\citizens_data_spit_6.txt
+2024-11-27 10:53:22,391 [MainThread] Active threads count: 17
+2024-11-27 10:53:22,392 [Thread-48] Bắt đầu trả cho main thread
+2024-11-27 10:53:23,687 [Thread-33] Bắt đầu đóng băng các thread khác để chạy thread thiện tại
+2024-11-27 10:53:23,911 [Thread-39] Bắt đầu đóng băng các thread khác để chạy thread thiện tại
+2024-11-27 10:53:24,351 [Thread-38] Bắt đầu đóng băng các thread khác để chạy thread thiện tại
+2024-11-27 10:53:24,351 [Thread-34] Bắt đầu đóng băng các thread khác để chạy thread thiện tại
+2024-11-27 10:53:24,580 [Thread-42] Bắt đầu đóng băng các thread khác để chạy thread thiện tại
+2024-11-27 10:53:24,885 [Thread-33] Hoàn thành đọc file: C:\Users\Admin\Desktop\output\splitfiles\citizens_data_spit_39.txt
+2024-11-27 10:53:25,367 [Thread-47] Bắt đầu đóng băng các thread khác để chạy thread thiện tại
+2024-11-27 10:53:25,613 [Thread-46] Bắt đầu đóng băng các thread khác để chạy thread thiện tại
+2024-11-27 10:53:26,050 [Thread-36] Bắt đầu đóng băng các thread khác để chạy thread thiện tại
+2024-11-27 10:53:26,160 [Thread-45] Bắt đầu đóng băng các thread khác để chạy thread thiện tại
+2024-11-27 10:53:26,161 [Thread-35] Bắt đầu đóng băng các thread khác để chạy thread thiện tại
+2024-11-27 10:53:26,433 [Thread-43] Bắt đầu đóng băng các thread khác để chạy thread thiện tại
+2024-11-27 10:53:26,434 [Thread-44] Bắt đầu đóng băng các thread khác để chạy thread thiện tại
+2024-11-27 10:53:26,434 [Thread-40] Bắt đầu đóng băng các thread khác để chạy thread thiện tại
+2024-11-27 10:53:26,735 [Thread-48] Bắt đầu đóng băng các thread khác để chạy thread thiện tại
+2024-11-27 10:53:27,003 [Thread-38] Hoàn thành đọc file: C:\Users\Admin\Desktop\output\splitfiles\citizens_data_spit_43.txt
+2024-11-27 10:53:27,004 [Thread-37] Bắt đầu đóng băng các thread khác để chạy thread thiện tại
+2024-11-27 10:53:27,004 [Thread-39] Hoàn thành đọc file: C:\Users\Admin\Desktop\output\splitfiles\citizens_data_spit_44.txt
+2024-11-27 10:53:27,452 [Thread-34] Hoàn thành đọc file: C:\Users\Admin\Desktop\output\splitfiles\citizens_data_spit_4.txt
+2024-11-27 10:53:27,452 [Thread-41] Bắt đầu đóng băng các thread khác để chạy thread thiện tại
+2024-11-27 10:53:27,452 [Thread-42] Hoàn thành đọc file: C:\Users\Admin\Desktop\output\splitfiles\citizens_data_spit_47.txt
+2024-11-27 10:53:27,650 [Thread-47] Hoàn thành đọc file: C:\Users\Admin\Desktop\output\splitfiles\citizens_data_spit_51.txt
+2024-11-27 10:53:27,651 [Thread-46] Hoàn thành đọc file: C:\Users\Admin\Desktop\output\splitfiles\citizens_data_spit_50.txt
+2024-11-27 10:53:27,837 [Thread-36] Hoàn thành đọc file: C:\Users\Admin\Desktop\output\splitfiles\citizens_data_spit_41.txt
+2024-11-27 10:53:27,935 [Thread-45] Hoàn thành đọc file: C:\Users\Admin\Desktop\output\splitfiles\citizens_data_spit_5.txt
+2024-11-27 10:53:27,935 [Thread-35] Hoàn thành đọc file: C:\Users\Admin\Desktop\output\splitfiles\citizens_data_spit_40.txt
+2024-11-27 10:53:28,029 [Thread-43] Hoàn thành đọc file: C:\Users\Admin\Desktop\output\splitfiles\citizens_data_spit_48.txt
+2024-11-27 10:53:28,329 [Thread-40] Hoàn thành đọc file: C:\Users\Admin\Desktop\output\splitfiles\citizens_data_spit_45.txt
+2024-11-27 10:53:28,330 [Thread-44] Hoàn thành đọc file: C:\Users\Admin\Desktop\output\splitfiles\citizens_data_spit_49.txt
+2024-11-27 10:53:28,342 [Thread-48] Hoàn thành đọc file: C:\Users\Admin\Desktop\output\splitfiles\citizens_data_spit_6.txt
+2024-11-27 10:53:28,441 [Thread-37] Hoàn thành đọc file: C:\Users\Admin\Desktop\output\splitfiles\citizens_data_spit_42.txt
+2024-11-27 10:53:28,568 [Thread-41] Hoàn thành đọc file: C:\Users\Admin\Desktop\output\splitfiles\citizens_data_spit_46.txt
+2024-11-27 10:53:28,755 [Thread-49] Bắt đầu đọc file: C:\Users\Admin\Desktop\output\splitfiles\citizens_data_spit_7.txt
+2024-11-27 10:53:28,755 [MainThread] Active threads count: 2
+2024-11-27 10:53:28,756 [Thread-49] Bắt đầu trả cho main thread
+2024-11-27 10:53:28,756 [Thread-50] Bắt đầu đọc file: C:\Users\Admin\Desktop\output\splitfiles\citizens_data_spit_8.txt
+2024-11-27 10:53:28,756 [MainThread] Active threads count: 3
+2024-11-27 10:53:28,757 [Thread-50] Bắt đầu trả cho main thread
+2024-11-27 10:53:28,758 [Thread-51] Bắt đầu đọc file: C:\Users\Admin\Desktop\output\splitfiles\citizens_data_spit_9.txt
+2024-11-27 10:53:28,758 [MainThread] Active threads count: 4
+2024-11-27 10:53:28,759 [Thread-51] Bắt đầu trả cho main thread
+2024-11-27 10:53:29,201 [Thread-49] Bắt đầu đóng băng các thread khác để chạy thread thiện tại
+2024-11-27 10:53:29,476 [Thread-51] Bắt đầu đóng băng các thread khác để chạy thread thiện tại
+2024-11-27 10:53:29,773 [Thread-49] Hoàn thành đọc file: C:\Users\Admin\Desktop\output\splitfiles\citizens_data_spit_7.txt
+2024-11-27 10:53:29,871 [Thread-50] Bắt đầu đóng băng các thread khác để chạy thread thiện tại
+2024-11-27 10:53:29,872 [Thread-51] Hoàn thành đọc file: C:\Users\Admin\Desktop\output\splitfiles\citizens_data_spit_9.txt
+2024-11-27 10:53:29,985 [Thread-50] Hoàn thành đọc file: C:\Users\Admin\Desktop\output\splitfiles\citizens_data_spit_8.txt
+2024-11-27 10:53:30,012 [MainThread] Start time: 2024-11-27 10:53:30
+2024-11-27 10:53:30,012 [MainThread] Elapsed time: 20.85 seconds

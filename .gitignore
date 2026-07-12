@@ -1,0 +1,21 @@
+# Large learning materials
+*.mp4
+*.rar
+*.zip
+*.7z
+*.avi
+*.mkv
+
+# Windows metadata
+*:Zone.Identifier
+
+# Python
+__pycache__/
+*.pyc
+
+# Environment
+.venv/
+venv/
+
+# Secrets
+.env

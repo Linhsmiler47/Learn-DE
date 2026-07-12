@@ -1,0 +1,25 @@
+Project cuối khoá DWH - ETL :
+Mục tiêu xây dựng mô hình data cho doanh nghiệp để phục vụ các mục tiêu đầu ra : 
+- Phân hệ Báo cáo quản trị bệnh viện theo định kỳ : tuần , quý , tháng , luỹ kế năm cho doanh số hệ thống bệnh viện Westmead Hospital
+- Phân hệ Báo cáo theo dõi doanh số near realtime : báo cáo doanh số liên tục được cập nhật và thể hiện trên biểu đồ
+- Phân hệ các dashboard về đánh giá bệnh viên : thiên về tư duy DA
+- Truy vấn nhanh được các kết luận khám để các bác sỹ có thể tham khảo về việc khám trước đó cũng như hướng điều trị. 
+- Mô hình dự báo thuốc men, dự đoán bệnh tật ở các tháng tiếp theo.
+
+Để làm được các đầu ra này cần làm những task sau :
+1. Tìm hiểu toàn bộ các bảng core hệ thống bệnh viện và nghiệp vụ của các bảng này -> đầu ra là 1 file excel gồm table_name | column_name | data type | desc 
+2. Dựng Datawarehouse để phục vụ báo cáo định kỳ và dashboard quản trị :
+	2a. Xây dựng luồng ETL ( batch job ) qua schema RAW của database DWH : sử dụng Nifi hoặc Talend jobs ( build talend job phải chạy schedule thông qua airflow )
+		+ Đảm bảo chính xác , ghi log , bắt notify qua telegram nếu thành công hoặc lỗi
+	2b. Dựng các bảng STG theo kiến trúc Data Vault để có thể tracking được sự thay đổi của dữ liệu raw,
+		Xây dựng DBT để load và transform data từ tầng RAW sang STG ( clean data , validate data ) 
+	2c. Xây dựng procedure để xử lý data từ tầng STG sang tầng DW : tầng DW sẽ lưu trữ theo kiến trúc galaxy schema ( DIM , FACT ) , chỉ lấy những column phục vụ cho báo cáo đầu ra cũng như các metric tính toán.
+		+ Xử lý dữ liệu thành các dữ liệu có cấu trúc theo chuẩn nf1 , nf2 , nf3
+		+ Tính toán và lưu trữ metric theo chiều Dimension
+	2d. Kéo dữ liệu lên PBI / Tableau / Superset / Dash + Ploty để biểu diễn báo cáo.
+3. Dựng Kafka để nhận dữ liệu từ bin log postgresql bắn lên để phục vụ cho việc streaming , truy vấn tìm kiếm qua elastic search
+	3a. Dùng Nifi hoặc Flink để kéo data vào schema tên ODS nhằm mục đích phục vụ cho streaming / near realtime -> Dùng PBI hoặc spark streaming để hiển thị báo cáo streaming.
+	3b. Dùng Elastic Search để kéo data từ topic kafka vào kho dữ liệu elastic search và xây dựng web app bằng Flask / Dash để hỗ trợ truy vấn các kết luận khám của bác sỹ
+4. Tất cả các data từ core bệnh viện và log đẩy lên HDFS Hadoop. Sau đó sử Spark để train mô hình ML Dự báo nhu cầu thuốc men
+5. Sau khi cài đặt và vận hành trơn tru : Dùng Docker đóng gói toàn bộ lên github
+6. Vẽ mô hình flowchart để thể hiện toàn bộ luồng dữ liệu của doanh nghiệp.

@@ -1,0 +1,93 @@
+2024-11-23 12:35:36,406 [MainThread] Start time: 2024-11-23 12:35:36
+2024-11-23 12:35:36,431 [MainThread] Thread id: 0 , start line : 0 , end line : 2500
+2024-11-23 12:35:36,432 [Thread-1 (process_part)] Thread id 0 , part_sub_index: 0 , start line : 0 , end line : 250
+2024-11-23 12:35:36,432 [MainThread] Thread id: 1 , start line : 2500 , end line : 5000
+2024-11-23 12:35:36,433 [Thread-1 (process_part)] Thread id 0 , part_sub_index: 1 , start line : 250 , end line : 500
+2024-11-23 12:35:36,433 [Thread-2 (process_chunk)] Thread id : 0 , part : 0 , found 4 word French
+2024-11-23 12:35:36,433 [Thread-3 (process_part)] Thread id 1 , part_sub_index: 0 , start line : 2500 , end line : 2750
+2024-11-23 12:35:36,434 [MainThread] Thread id: 2 , start line : 5000 , end line : 7500
+2024-11-23 12:35:36,434 [Thread-1 (process_part)] Thread id 0 , part_sub_index: 2 , start line : 500 , end line : 750
+2024-11-23 12:35:36,434 [Thread-4 (process_chunk)] Thread id : 0 , part : 1 , found 3 word French
+2024-11-23 12:35:36,435 [Thread-3 (process_part)] Thread id 1 , part_sub_index: 1 , start line : 2750 , end line : 3000
+2024-11-23 12:35:36,435 [Thread-5 (process_chunk)] Thread id : 1 , part : 0 , found 5 word French
+2024-11-23 12:35:36,435 [Thread-6 (process_part)] Thread id 2 , part_sub_index: 0 , start line : 5000 , end line : 5250
+2024-11-23 12:35:36,435 [MainThread] Thread id: 3 , start line : 7500 , end line : 10000
+2024-11-23 12:35:36,436 [Thread-1 (process_part)] Thread id 0 , part_sub_index: 3 , start line : 750 , end line : 1000
+2024-11-23 12:35:36,436 [Thread-7 (process_chunk)] Thread id : 0 , part : 2 , found 3 word French
+2024-11-23 12:35:36,436 [Thread-3 (process_part)] Thread id 1 , part_sub_index: 2 , start line : 3000 , end line : 3250
+2024-11-23 12:35:36,437 [Thread-6 (process_part)] Thread id 2 , part_sub_index: 1 , start line : 5250 , end line : 5500
+2024-11-23 12:35:36,437 [Thread-8 (process_chunk)] Thread id : 1 , part : 1 , found 6 word French
+2024-11-23 12:35:36,437 [Thread-9 (process_chunk)] Thread id : 2 , part : 0 , found 2 word French
+2024-11-23 12:35:36,438 [Thread-1 (process_part)] Thread id 0 , part_sub_index: 4 , start line : 1000 , end line : 1250
+2024-11-23 12:35:36,439 [Thread-11 (process_chunk)] Thread id : 0 , part : 3 , found 4 word French
+2024-11-23 12:35:36,439 [Thread-3 (process_part)] Thread id 1 , part_sub_index: 3 , start line : 3250 , end line : 3500
+2024-11-23 12:35:36,440 [Thread-6 (process_part)] Thread id 2 , part_sub_index: 2 , start line : 5500 , end line : 5750
+2024-11-23 12:35:36,440 [Thread-10 (process_part)] Thread id 3 , part_sub_index: 0 , start line : 7500 , end line : 7750
+2024-11-23 12:35:36,440 [Thread-13 (process_chunk)] Thread id : 2 , part : 1 , found 5 word French
+2024-11-23 12:35:36,440 [Thread-12 (process_chunk)] Thread id : 1 , part : 2 , found 2 word French
+2024-11-23 12:35:36,441 [Thread-1 (process_part)] Thread id 0 , part_sub_index: 5 , start line : 1250 , end line : 1500
+2024-11-23 12:35:36,441 [Thread-14 (process_chunk)] Thread id : 0 , part : 4 , found 2 word French
+2024-11-23 12:35:36,441 [Thread-3 (process_part)] Thread id 1 , part_sub_index: 4 , start line : 3500 , end line : 3750
+2024-11-23 12:35:36,442 [Thread-6 (process_part)] Thread id 2 , part_sub_index: 3 , start line : 5750 , end line : 6000
+2024-11-23 12:35:36,443 [Thread-15 (process_chunk)] Thread id : 1 , part : 3 , found 2 word French
+2024-11-23 12:35:36,443 [Thread-16 (process_chunk)] Thread id : 2 , part : 2 , found 2 word French
+2024-11-23 12:35:36,443 [Thread-10 (process_part)] Thread id 3 , part_sub_index: 1 , start line : 7750 , end line : 8000
+2024-11-23 12:35:36,443 [Thread-17 (process_chunk)] Thread id : 3 , part : 0 , found 4 word French
+2024-11-23 12:35:36,444 [Thread-1 (process_part)] Thread id 0 , part_sub_index: 6 , start line : 1500 , end line : 1750
+2024-11-23 12:35:36,444 [Thread-18 (process_chunk)] Thread id : 0 , part : 5 , found 2 word French
+2024-11-23 12:35:36,444 [Thread-3 (process_part)] Thread id 1 , part_sub_index: 5 , start line : 3750 , end line : 4000
+2024-11-23 12:35:36,445 [Thread-19 (process_chunk)] Thread id : 1 , part : 4 , found 5 word French
+2024-11-23 12:35:36,445 [Thread-6 (process_part)] Thread id 2 , part_sub_index: 4 , start line : 6000 , end line : 6250
+2024-11-23 12:35:36,446 [Thread-20 (process_chunk)] Thread id : 2 , part : 3 , found 6 word French
+2024-11-23 12:35:36,446 [Thread-10 (process_part)] Thread id 3 , part_sub_index: 2 , start line : 8000 , end line : 8250
+2024-11-23 12:35:36,446 [Thread-1 (process_part)] Thread id 0 , part_sub_index: 7 , start line : 1750 , end line : 2000
+2024-11-23 12:35:36,446 [Thread-21 (process_chunk)] Thread id : 3 , part : 1 , found 2 word French
+2024-11-23 12:35:36,447 [Thread-3 (process_part)] Thread id 1 , part_sub_index: 6 , start line : 4000 , end line : 4250
+2024-11-23 12:35:36,447 [Thread-22 (process_chunk)] Thread id : 0 , part : 6 , found 4 word French
+2024-11-23 12:35:36,447 [Thread-23 (process_chunk)] Thread id : 1 , part : 5 , found 4 word French
+2024-11-23 12:35:36,447 [Thread-6 (process_part)] Thread id 2 , part_sub_index: 5 , start line : 6250 , end line : 6500
+2024-11-23 12:35:36,448 [Thread-10 (process_part)] Thread id 3 , part_sub_index: 3 , start line : 8250 , end line : 8500
+2024-11-23 12:35:36,448 [Thread-24 (process_chunk)] Thread id : 2 , part : 4 , found 3 word French
+2024-11-23 12:35:36,448 [Thread-1 (process_part)] Thread id 0 , part_sub_index: 8 , start line : 2000 , end line : 2250
+2024-11-23 12:35:36,449 [Thread-3 (process_part)] Thread id 1 , part_sub_index: 7 , start line : 4250 , end line : 4500
+2024-11-23 12:35:36,449 [Thread-25 (process_chunk)] Thread id : 3 , part : 2 , found 2 word French
+2024-11-23 12:35:36,449 [Thread-26 (process_chunk)] Thread id : 0 , part : 7 , found 6 word French
+2024-11-23 12:35:36,449 [Thread-27 (process_chunk)] Thread id : 1 , part : 6 , found 3 word French
+2024-11-23 12:35:36,450 [Thread-6 (process_part)] Thread id 2 , part_sub_index: 6 , start line : 6500 , end line : 6750
+2024-11-23 12:35:36,450 [Thread-10 (process_part)] Thread id 3 , part_sub_index: 4 , start line : 8500 , end line : 8750
+2024-11-23 12:35:36,450 [Thread-28 (process_chunk)] Thread id : 2 , part : 5 , found 4 word French
+2024-11-23 12:35:36,451 [Thread-1 (process_part)] Thread id 0 , part_sub_index: 9 , start line : 2250 , end line : 2500
+2024-11-23 12:35:36,451 [Thread-29 (process_chunk)] Thread id : 3 , part : 3 , found 2 word French
+2024-11-23 12:35:36,451 [Thread-3 (process_part)] Thread id 1 , part_sub_index: 8 , start line : 4500 , end line : 4750
+2024-11-23 12:35:36,451 [Thread-31 (process_chunk)] Thread id : 1 , part : 7 , found 5 word French
+2024-11-23 12:35:36,452 [Thread-30 (process_chunk)] Thread id : 0 , part : 8 , found 5 word French
+2024-11-23 12:35:36,452 [Thread-6 (process_part)] Thread id 2 , part_sub_index: 7 , start line : 6750 , end line : 7000
+2024-11-23 12:35:36,452 [Thread-10 (process_part)] Thread id 3 , part_sub_index: 5 , start line : 8750 , end line : 9000
+2024-11-23 12:35:36,452 [Thread-32 (process_chunk)] Thread id : 2 , part : 6 , found 3 word French
+2024-11-23 12:35:36,453 [Thread-33 (process_chunk)] Thread id : 3 , part : 4 , found 0 word French
+2024-11-23 12:35:36,453 [Thread-34 (process_chunk)] Thread id : 0 , part : 9 , found 5 word French
+2024-11-23 12:35:36,456 [Thread-3 (process_part)] Thread id 1 , part_sub_index: 9 , start line : 4750 , end line : 5000
+2024-11-23 12:35:36,457 [Thread-35 (process_chunk)] Thread id : 1 , part : 8 , found 3 word French
+2024-11-23 12:35:36,457 [Thread-6 (process_part)] Thread id 2 , part_sub_index: 8 , start line : 7000 , end line : 7250
+2024-11-23 12:35:36,458 [Thread-10 (process_part)] Thread id 3 , part_sub_index: 6 , start line : 9000 , end line : 9250
+2024-11-23 12:35:36,458 [Thread-36 (process_chunk)] Thread id : 2 , part : 7 , found 2 word French
+2024-11-23 12:35:36,459 [Thread-1 (process_part)] Part 0 processing completed.
+2024-11-23 12:35:36,459 [Thread-37 (process_chunk)] Thread id : 3 , part : 5 , found 3 word French
+2024-11-23 12:35:36,460 [Thread-38 (process_chunk)] Thread id : 1 , part : 9 , found 4 word French
+2024-11-23 12:35:36,460 [Thread-6 (process_part)] Thread id 2 , part_sub_index: 9 , start line : 7250 , end line : 7500
+2024-11-23 12:35:36,460 [Thread-10 (process_part)] Thread id 3 , part_sub_index: 7 , start line : 9250 , end line : 9500
+2024-11-23 12:35:36,461 [Thread-40 (process_chunk)] Thread id : 3 , part : 6 , found 4 word French
+2024-11-23 12:35:36,461 [Thread-39 (process_chunk)] Thread id : 2 , part : 8 , found 3 word French
+2024-11-23 12:35:36,461 [Thread-3 (process_part)] Part 1 processing completed.
+2024-11-23 12:35:36,462 [Thread-10 (process_part)] Thread id 3 , part_sub_index: 8 , start line : 9500 , end line : 9750
+2024-11-23 12:35:36,462 [Thread-41 (process_chunk)] Thread id : 2 , part : 9 , found 2 word French
+2024-11-23 12:35:36,462 [Thread-42 (process_chunk)] Thread id : 3 , part : 7 , found 2 word French
+2024-11-23 12:35:36,463 [Thread-10 (process_part)] Thread id 3 , part_sub_index: 9 , start line : 9750 , end line : 10000
+2024-11-23 12:35:36,463 [Thread-6 (process_part)] Part 2 processing completed.
+2024-11-23 12:35:36,463 [Thread-43 (process_chunk)] Thread id : 3 , part : 8 , found 7 word French
+2024-11-23 12:35:36,464 [Thread-44 (process_chunk)] Thread id : 3 , part : 9 , found 5 word French
+2024-11-23 12:35:36,464 [Thread-10 (process_part)] Part 3 processing completed.
+2024-11-23 12:35:36,464 [MainThread] [[4, 3, 3, 4, 2, 2, 4, 6, 5, 5], [5, 6, 2, 2, 5, 4, 3, 5, 3, 4], [2, 5, 2, 6, 3, 4, 3, 2, 3, 2], [4, 2, 2, 2, 0, 3, 4, 2, 7, 5]]
+2024-11-23 12:35:36,464 [MainThread] Total occurrences of 'French': 140
+2024-11-23 12:35:36,464 [MainThread] End time: 2024-11-23 12:35:36
+2024-11-23 12:35:36,465 [MainThread] Elapsed time: 0.06 seconds

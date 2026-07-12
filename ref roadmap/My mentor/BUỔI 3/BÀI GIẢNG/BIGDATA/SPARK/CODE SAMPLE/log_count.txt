@@ -1,0 +1,249 @@
+2024-11-27 10:34:18,473 [MainThread] Start time: 2024-11-27 10:34:18
+2024-11-27 10:34:18,473 [MainThread] Active threads count: 1
+2024-11-27 10:34:35,864 [Thread-1 (count_word_in_chunk)] Thread current running : 
+2024-11-27 10:34:35,864 [MainThread] Main thread được thread nhả CPU cho chạy tiếp
+2024-11-27 10:34:35,864 [Thread-1 (count_word_in_chunk)] Thread  vào ngủ đông, trả lại cho Main thread chạy
+2024-11-27 10:34:35,865 [MainThread] Active threads count: 2
+2024-11-27 10:34:36,444 [Thread-2 (count_word_in_chunk)] Thread current running : 
+2024-11-27 10:34:36,445 [MainThread] Main thread được thread nhả CPU cho chạy tiếp
+2024-11-27 10:34:36,445 [Thread-2 (count_word_in_chunk)] Thread  vào ngủ đông, trả lại cho Main thread chạy
+2024-11-27 10:34:36,445 [MainThread] Active threads count: 3
+2024-11-27 10:34:37,034 [Thread-3 (count_word_in_chunk)] Thread current running : 
+2024-11-27 10:34:37,034 [MainThread] Main thread được thread nhả CPU cho chạy tiếp
+2024-11-27 10:34:37,034 [Thread-3 (count_word_in_chunk)] Thread  vào ngủ đông, trả lại cho Main thread chạy
+2024-11-27 10:34:37,034 [MainThread] Active threads count: 4
+2024-11-27 10:34:37,606 [Thread-4 (count_word_in_chunk)] Thread current running : 
+2024-11-27 10:34:37,607 [MainThread] Main thread được thread nhả CPU cho chạy tiếp
+2024-11-27 10:34:37,607 [Thread-4 (count_word_in_chunk)] Thread  vào ngủ đông, trả lại cho Main thread chạy
+2024-11-27 10:34:37,607 [MainThread] Active threads count: 5
+2024-11-27 10:34:38,199 [Thread-5 (count_word_in_chunk)] Thread current running : 
+2024-11-27 10:34:38,199 [MainThread] Main thread được thread nhả CPU cho chạy tiếp
+2024-11-27 10:34:38,200 [Thread-5 (count_word_in_chunk)] Thread  vào ngủ đông, trả lại cho Main thread chạy
+2024-11-27 10:34:38,200 [MainThread] Active threads count: 6
+2024-11-27 10:34:38,774 [Thread-6 (count_word_in_chunk)] Thread current running : 
+2024-11-27 10:34:38,774 [MainThread] Main thread được thread nhả CPU cho chạy tiếp
+2024-11-27 10:34:38,775 [Thread-6 (count_word_in_chunk)] Thread  vào ngủ đông, trả lại cho Main thread chạy
+2024-11-27 10:34:38,776 [MainThread] Active threads count: 7
+2024-11-27 10:34:39,374 [Thread-7 (count_word_in_chunk)] Thread current running : 
+2024-11-27 10:34:39,375 [MainThread] Main thread được thread nhả CPU cho chạy tiếp
+2024-11-27 10:34:39,375 [Thread-7 (count_word_in_chunk)] Thread  vào ngủ đông, trả lại cho Main thread chạy
+2024-11-27 10:34:39,376 [MainThread] Active threads count: 8
+2024-11-27 10:34:39,978 [Thread-8 (count_word_in_chunk)] Thread current running : 
+2024-11-27 10:34:39,979 [MainThread] Main thread được thread nhả CPU cho chạy tiếp
+2024-11-27 10:34:39,979 [Thread-8 (count_word_in_chunk)] Thread  vào ngủ đông, trả lại cho Main thread chạy
+2024-11-27 10:34:39,981 [MainThread] Active threads count: 9
+2024-11-27 10:34:39,982 [MainThread] sinh ra đủ 8 thread , và main thread sẽ chờ 8 thread này chạy xong
+2024-11-27 10:34:55,866 [Thread-1 (count_word_in_chunk)] Thread  đã hết ngủ đông bắt đầu xử lý tiếp 
+2024-11-27 10:34:56,172 [Thread-1 (count_word_in_chunk)] Found 29083 'French' at part_index : 0
+2024-11-27 10:34:56,447 [Thread-2 (count_word_in_chunk)] Thread  đã hết ngủ đông bắt đầu xử lý tiếp 
+2024-11-27 10:34:56,785 [Thread-2 (count_word_in_chunk)] Found 28947 'French' at part_index : 1
+2024-11-27 10:34:57,035 [Thread-3 (count_word_in_chunk)] Thread  đã hết ngủ đông bắt đầu xử lý tiếp 
+2024-11-27 10:34:57,380 [Thread-3 (count_word_in_chunk)] Found 28802 'French' at part_index : 2
+2024-11-27 10:34:57,608 [Thread-4 (count_word_in_chunk)] Thread  đã hết ngủ đông bắt đầu xử lý tiếp 
+2024-11-27 10:34:57,950 [Thread-4 (count_word_in_chunk)] Found 28967 'French' at part_index : 3
+2024-11-27 10:34:58,201 [Thread-5 (count_word_in_chunk)] Thread  đã hết ngủ đông bắt đầu xử lý tiếp 
+2024-11-27 10:34:58,526 [Thread-5 (count_word_in_chunk)] Found 28955 'French' at part_index : 4
+2024-11-27 10:34:58,777 [Thread-6 (count_word_in_chunk)] Thread  đã hết ngủ đông bắt đầu xử lý tiếp 
+2024-11-27 10:34:59,122 [Thread-6 (count_word_in_chunk)] Found 28999 'French' at part_index : 5
+2024-11-27 10:34:59,378 [Thread-7 (count_word_in_chunk)] Thread  đã hết ngủ đông bắt đầu xử lý tiếp 
+2024-11-27 10:34:59,731 [Thread-7 (count_word_in_chunk)] Found 29043 'French' at part_index : 6
+2024-11-27 10:34:59,982 [Thread-8 (count_word_in_chunk)] Thread  đã hết ngủ đông bắt đầu xử lý tiếp 
+2024-11-27 10:35:00,343 [Thread-8 (count_word_in_chunk)] Found 28682 'French' at part_index : 7
+2024-11-27 10:35:01,081 [Thread-9 (count_word_in_chunk)] Thread current running : 
+2024-11-27 10:35:01,081 [MainThread] Main thread được thread nhả CPU cho chạy tiếp
+2024-11-27 10:35:01,081 [Thread-9 (count_word_in_chunk)] Thread  vào ngủ đông, trả lại cho Main thread chạy
+2024-11-27 10:35:01,082 [MainThread] Active threads count: 2
+2024-11-27 10:35:01,659 [Thread-10 (count_word_in_chunk)] Thread current running : 
+2024-11-27 10:35:01,660 [MainThread] Main thread được thread nhả CPU cho chạy tiếp
+2024-11-27 10:35:01,660 [Thread-10 (count_word_in_chunk)] Thread  vào ngủ đông, trả lại cho Main thread chạy
+2024-11-27 10:35:01,660 [MainThread] Active threads count: 3
+2024-11-27 10:35:02,256 [Thread-11 (count_word_in_chunk)] Thread current running : 
+2024-11-27 10:35:02,256 [MainThread] Main thread được thread nhả CPU cho chạy tiếp
+2024-11-27 10:35:02,256 [Thread-11 (count_word_in_chunk)] Thread  vào ngủ đông, trả lại cho Main thread chạy
+2024-11-27 10:35:02,256 [MainThread] Active threads count: 4
+2024-11-27 10:35:02,816 [Thread-12 (count_word_in_chunk)] Thread current running : 
+2024-11-27 10:35:02,816 [MainThread] Main thread được thread nhả CPU cho chạy tiếp
+2024-11-27 10:35:02,817 [Thread-12 (count_word_in_chunk)] Thread  vào ngủ đông, trả lại cho Main thread chạy
+2024-11-27 10:35:02,818 [MainThread] Active threads count: 5
+2024-11-27 10:35:03,376 [Thread-13 (count_word_in_chunk)] Thread current running : 
+2024-11-27 10:35:03,377 [MainThread] Main thread được thread nhả CPU cho chạy tiếp
+2024-11-27 10:35:03,377 [Thread-13 (count_word_in_chunk)] Thread  vào ngủ đông, trả lại cho Main thread chạy
+2024-11-27 10:35:03,377 [MainThread] Active threads count: 6
+2024-11-27 10:35:03,946 [Thread-14 (count_word_in_chunk)] Thread current running : 
+2024-11-27 10:35:03,946 [MainThread] Main thread được thread nhả CPU cho chạy tiếp
+2024-11-27 10:35:03,946 [Thread-14 (count_word_in_chunk)] Thread  vào ngủ đông, trả lại cho Main thread chạy
+2024-11-27 10:35:03,948 [MainThread] Active threads count: 7
+2024-11-27 10:35:04,569 [Thread-15 (count_word_in_chunk)] Thread current running : 
+2024-11-27 10:35:04,569 [MainThread] Main thread được thread nhả CPU cho chạy tiếp
+2024-11-27 10:35:04,569 [Thread-15 (count_word_in_chunk)] Thread  vào ngủ đông, trả lại cho Main thread chạy
+2024-11-27 10:35:04,569 [MainThread] Active threads count: 8
+2024-11-27 10:35:05,183 [Thread-16 (count_word_in_chunk)] Thread current running : 
+2024-11-27 10:35:05,183 [MainThread] Main thread được thread nhả CPU cho chạy tiếp
+2024-11-27 10:35:05,184 [Thread-16 (count_word_in_chunk)] Thread  vào ngủ đông, trả lại cho Main thread chạy
+2024-11-27 10:35:05,185 [MainThread] Active threads count: 9
+2024-11-27 10:35:05,186 [MainThread] sinh ra đủ 8 thread , và main thread sẽ chờ 8 thread này chạy xong
+2024-11-27 10:35:21,083 [Thread-9 (count_word_in_chunk)] Thread  đã hết ngủ đông bắt đầu xử lý tiếp 
+2024-11-27 10:35:21,401 [Thread-9 (count_word_in_chunk)] Found 29118 'French' at part_index : 8
+2024-11-27 10:35:21,661 [Thread-10 (count_word_in_chunk)] Thread  đã hết ngủ đông bắt đầu xử lý tiếp 
+2024-11-27 10:35:21,999 [Thread-10 (count_word_in_chunk)] Found 28894 'French' at part_index : 9
+2024-11-27 10:35:22,258 [Thread-11 (count_word_in_chunk)] Thread  đã hết ngủ đông bắt đầu xử lý tiếp 
+2024-11-27 10:35:22,594 [Thread-11 (count_word_in_chunk)] Found 28704 'French' at part_index : 10
+2024-11-27 10:35:22,819 [Thread-12 (count_word_in_chunk)] Thread  đã hết ngủ đông bắt đầu xử lý tiếp 
+2024-11-27 10:35:23,134 [Thread-12 (count_word_in_chunk)] Found 28782 'French' at part_index : 11
+2024-11-27 10:35:23,379 [Thread-13 (count_word_in_chunk)] Thread  đã hết ngủ đông bắt đầu xử lý tiếp 
+2024-11-27 10:35:23,705 [Thread-13 (count_word_in_chunk)] Found 28580 'French' at part_index : 12
+2024-11-27 10:35:23,949 [Thread-14 (count_word_in_chunk)] Thread  đã hết ngủ đông bắt đầu xử lý tiếp 
+2024-11-27 10:35:24,307 [Thread-14 (count_word_in_chunk)] Found 28949 'French' at part_index : 13
+2024-11-27 10:35:24,570 [Thread-15 (count_word_in_chunk)] Thread  đã hết ngủ đông bắt đầu xử lý tiếp 
+2024-11-27 10:35:24,968 [Thread-15 (count_word_in_chunk)] Found 28607 'French' at part_index : 14
+2024-11-27 10:35:25,186 [Thread-16 (count_word_in_chunk)] Thread  đã hết ngủ đông bắt đầu xử lý tiếp 
+2024-11-27 10:35:25,547 [Thread-16 (count_word_in_chunk)] Found 28882 'French' at part_index : 15
+2024-11-27 10:35:26,249 [Thread-17 (count_word_in_chunk)] Thread current running : 
+2024-11-27 10:35:26,249 [MainThread] Main thread được thread nhả CPU cho chạy tiếp
+2024-11-27 10:35:26,249 [Thread-17 (count_word_in_chunk)] Thread  vào ngủ đông, trả lại cho Main thread chạy
+2024-11-27 10:35:26,250 [MainThread] Active threads count: 2
+2024-11-27 10:35:27,163 [Thread-18 (count_word_in_chunk)] Thread current running : 
+2024-11-27 10:35:27,163 [MainThread] Main thread được thread nhả CPU cho chạy tiếp
+2024-11-27 10:35:27,163 [Thread-18 (count_word_in_chunk)] Thread  vào ngủ đông, trả lại cho Main thread chạy
+2024-11-27 10:35:27,164 [MainThread] Active threads count: 3
+2024-11-27 10:35:28,166 [Thread-19 (count_word_in_chunk)] Thread current running : 
+2024-11-27 10:35:28,166 [MainThread] Main thread được thread nhả CPU cho chạy tiếp
+2024-11-27 10:35:28,166 [Thread-19 (count_word_in_chunk)] Thread  vào ngủ đông, trả lại cho Main thread chạy
+2024-11-27 10:35:28,167 [MainThread] Active threads count: 4
+2024-11-27 10:35:28,865 [Thread-20 (count_word_in_chunk)] Thread current running : 
+2024-11-27 10:35:28,866 [MainThread] Main thread được thread nhả CPU cho chạy tiếp
+2024-11-27 10:35:28,866 [Thread-20 (count_word_in_chunk)] Thread  vào ngủ đông, trả lại cho Main thread chạy
+2024-11-27 10:35:28,867 [MainThread] Active threads count: 5
+2024-11-27 10:35:29,514 [Thread-21 (count_word_in_chunk)] Thread current running : 
+2024-11-27 10:35:29,514 [MainThread] Main thread được thread nhả CPU cho chạy tiếp
+2024-11-27 10:35:29,514 [Thread-21 (count_word_in_chunk)] Thread  vào ngủ đông, trả lại cho Main thread chạy
+2024-11-27 10:35:29,515 [MainThread] Active threads count: 6
+2024-11-27 10:35:30,241 [Thread-22 (count_word_in_chunk)] Thread current running : 
+2024-11-27 10:35:30,241 [MainThread] Main thread được thread nhả CPU cho chạy tiếp
+2024-11-27 10:35:30,241 [Thread-22 (count_word_in_chunk)] Thread  vào ngủ đông, trả lại cho Main thread chạy
+2024-11-27 10:35:30,242 [MainThread] Active threads count: 7
+2024-11-27 10:35:30,936 [Thread-23 (count_word_in_chunk)] Thread current running : 
+2024-11-27 10:35:30,936 [MainThread] Main thread được thread nhả CPU cho chạy tiếp
+2024-11-27 10:35:30,936 [Thread-23 (count_word_in_chunk)] Thread  vào ngủ đông, trả lại cho Main thread chạy
+2024-11-27 10:35:30,937 [MainThread] Active threads count: 8
+2024-11-27 10:35:31,636 [Thread-24 (count_word_in_chunk)] Thread current running : 
+2024-11-27 10:35:31,636 [MainThread] Main thread được thread nhả CPU cho chạy tiếp
+2024-11-27 10:35:31,636 [Thread-24 (count_word_in_chunk)] Thread  vào ngủ đông, trả lại cho Main thread chạy
+2024-11-27 10:35:31,638 [MainThread] Active threads count: 9
+2024-11-27 10:35:31,640 [MainThread] sinh ra đủ 8 thread , và main thread sẽ chờ 8 thread này chạy xong
+2024-11-27 10:35:46,251 [Thread-17 (count_word_in_chunk)] Thread  đã hết ngủ đông bắt đầu xử lý tiếp 
+2024-11-27 10:35:46,586 [Thread-17 (count_word_in_chunk)] Found 28962 'French' at part_index : 16
+2024-11-27 10:35:47,166 [Thread-18 (count_word_in_chunk)] Thread  đã hết ngủ đông bắt đầu xử lý tiếp 
+2024-11-27 10:35:47,484 [Thread-18 (count_word_in_chunk)] Found 28838 'French' at part_index : 17
+2024-11-27 10:35:48,169 [Thread-19 (count_word_in_chunk)] Thread  đã hết ngủ đông bắt đầu xử lý tiếp 
+2024-11-27 10:35:48,484 [Thread-19 (count_word_in_chunk)] Found 28732 'French' at part_index : 18
+2024-11-27 10:35:48,868 [Thread-20 (count_word_in_chunk)] Thread  đã hết ngủ đông bắt đầu xử lý tiếp 
+2024-11-27 10:35:49,158 [Thread-20 (count_word_in_chunk)] Found 28843 'French' at part_index : 19
+2024-11-27 10:35:49,517 [Thread-21 (count_word_in_chunk)] Thread  đã hết ngủ đông bắt đầu xử lý tiếp 
+2024-11-27 10:35:49,846 [Thread-21 (count_word_in_chunk)] Found 28754 'French' at part_index : 20
+2024-11-27 10:35:50,244 [Thread-22 (count_word_in_chunk)] Thread  đã hết ngủ đông bắt đầu xử lý tiếp 
+2024-11-27 10:35:50,558 [Thread-22 (count_word_in_chunk)] Found 28820 'French' at part_index : 21
+2024-11-27 10:35:50,939 [Thread-23 (count_word_in_chunk)] Thread  đã hết ngủ đông bắt đầu xử lý tiếp 
+2024-11-27 10:35:51,256 [Thread-23 (count_word_in_chunk)] Found 28854 'French' at part_index : 22
+2024-11-27 10:35:51,641 [Thread-24 (count_word_in_chunk)] Thread  đã hết ngủ đông bắt đầu xử lý tiếp 
+2024-11-27 10:35:51,937 [Thread-24 (count_word_in_chunk)] Found 29131 'French' at part_index : 23
+2024-11-27 10:35:52,592 [Thread-25 (count_word_in_chunk)] Thread current running : 
+2024-11-27 10:35:52,592 [MainThread] Main thread được thread nhả CPU cho chạy tiếp
+2024-11-27 10:35:52,592 [Thread-25 (count_word_in_chunk)] Thread  vào ngủ đông, trả lại cho Main thread chạy
+2024-11-27 10:35:52,592 [MainThread] Active threads count: 2
+2024-11-27 10:35:53,160 [Thread-26 (count_word_in_chunk)] Thread current running : 
+2024-11-27 10:35:53,160 [MainThread] Main thread được thread nhả CPU cho chạy tiếp
+2024-11-27 10:35:53,161 [Thread-26 (count_word_in_chunk)] Thread  vào ngủ đông, trả lại cho Main thread chạy
+2024-11-27 10:35:53,161 [MainThread] Active threads count: 3
+2024-11-27 10:35:53,758 [Thread-27 (count_word_in_chunk)] Thread current running : 
+2024-11-27 10:35:53,758 [MainThread] Main thread được thread nhả CPU cho chạy tiếp
+2024-11-27 10:35:53,758 [Thread-27 (count_word_in_chunk)] Thread  vào ngủ đông, trả lại cho Main thread chạy
+2024-11-27 10:35:53,759 [MainThread] Active threads count: 4
+2024-11-27 10:35:54,381 [Thread-28 (count_word_in_chunk)] Thread current running : 
+2024-11-27 10:35:54,381 [MainThread] Main thread được thread nhả CPU cho chạy tiếp
+2024-11-27 10:35:54,381 [Thread-28 (count_word_in_chunk)] Thread  vào ngủ đông, trả lại cho Main thread chạy
+2024-11-27 10:35:54,382 [MainThread] Active threads count: 5
+2024-11-27 10:35:54,988 [Thread-29 (count_word_in_chunk)] Thread current running : 
+2024-11-27 10:35:54,989 [MainThread] Main thread được thread nhả CPU cho chạy tiếp
+2024-11-27 10:35:54,989 [Thread-29 (count_word_in_chunk)] Thread  vào ngủ đông, trả lại cho Main thread chạy
+2024-11-27 10:35:54,990 [MainThread] Active threads count: 6
+2024-11-27 10:35:55,573 [Thread-30 (count_word_in_chunk)] Thread current running : 
+2024-11-27 10:35:55,573 [MainThread] Main thread được thread nhả CPU cho chạy tiếp
+2024-11-27 10:35:55,573 [Thread-30 (count_word_in_chunk)] Thread  vào ngủ đông, trả lại cho Main thread chạy
+2024-11-27 10:35:55,574 [MainThread] Active threads count: 7
+2024-11-27 10:35:56,143 [Thread-31 (count_word_in_chunk)] Thread current running : 
+2024-11-27 10:35:56,143 [MainThread] Main thread được thread nhả CPU cho chạy tiếp
+2024-11-27 10:35:56,144 [Thread-31 (count_word_in_chunk)] Thread  vào ngủ đông, trả lại cho Main thread chạy
+2024-11-27 10:35:56,145 [MainThread] Active threads count: 8
+2024-11-27 10:35:56,705 [Thread-32 (count_word_in_chunk)] Thread current running : 
+2024-11-27 10:35:56,706 [MainThread] Main thread được thread nhả CPU cho chạy tiếp
+2024-11-27 10:35:56,706 [Thread-32 (count_word_in_chunk)] Thread  vào ngủ đông, trả lại cho Main thread chạy
+2024-11-27 10:35:56,707 [MainThread] Active threads count: 9
+2024-11-27 10:35:56,707 [MainThread] sinh ra đủ 8 thread , và main thread sẽ chờ 8 thread này chạy xong
+2024-11-27 10:36:12,594 [Thread-25 (count_word_in_chunk)] Thread  đã hết ngủ đông bắt đầu xử lý tiếp 
+2024-11-27 10:36:12,924 [Thread-25 (count_word_in_chunk)] Found 29060 'French' at part_index : 24
+2024-11-27 10:36:13,163 [Thread-26 (count_word_in_chunk)] Thread  đã hết ngủ đông bắt đầu xử lý tiếp 
+2024-11-27 10:36:13,511 [Thread-26 (count_word_in_chunk)] Found 28751 'French' at part_index : 25
+2024-11-27 10:36:13,760 [Thread-27 (count_word_in_chunk)] Thread  đã hết ngủ đông bắt đầu xử lý tiếp 
+2024-11-27 10:36:14,087 [Thread-27 (count_word_in_chunk)] Found 28811 'French' at part_index : 26
+2024-11-27 10:36:14,383 [Thread-28 (count_word_in_chunk)] Thread  đã hết ngủ đông bắt đầu xử lý tiếp 
+2024-11-27 10:36:14,711 [Thread-28 (count_word_in_chunk)] Found 29067 'French' at part_index : 27
+2024-11-27 10:36:14,991 [Thread-29 (count_word_in_chunk)] Thread  đã hết ngủ đông bắt đầu xử lý tiếp 
+2024-11-27 10:36:15,324 [Thread-29 (count_word_in_chunk)] Found 29005 'French' at part_index : 28
+2024-11-27 10:36:15,576 [Thread-30 (count_word_in_chunk)] Thread  đã hết ngủ đông bắt đầu xử lý tiếp 
+2024-11-27 10:36:15,884 [Thread-30 (count_word_in_chunk)] Found 28888 'French' at part_index : 29
+2024-11-27 10:36:16,146 [Thread-31 (count_word_in_chunk)] Thread  đã hết ngủ đông bắt đầu xử lý tiếp 
+2024-11-27 10:36:16,459 [Thread-31 (count_word_in_chunk)] Found 28846 'French' at part_index : 30
+2024-11-27 10:36:16,708 [Thread-32 (count_word_in_chunk)] Thread  đã hết ngủ đông bắt đầu xử lý tiếp 
+2024-11-27 10:36:16,997 [Thread-32 (count_word_in_chunk)] Found 28905 'French' at part_index : 31
+2024-11-27 10:36:17,691 [Thread-33 (count_word_in_chunk)] Thread current running : 
+2024-11-27 10:36:17,692 [MainThread] Main thread được thread nhả CPU cho chạy tiếp
+2024-11-27 10:36:17,692 [Thread-33 (count_word_in_chunk)] Thread  vào ngủ đông, trả lại cho Main thread chạy
+2024-11-27 10:36:17,693 [MainThread] Active threads count: 2
+2024-11-27 10:36:18,270 [Thread-34 (count_word_in_chunk)] Thread current running : 
+2024-11-27 10:36:18,270 [MainThread] Main thread được thread nhả CPU cho chạy tiếp
+2024-11-27 10:36:18,270 [Thread-34 (count_word_in_chunk)] Thread  vào ngủ đông, trả lại cho Main thread chạy
+2024-11-27 10:36:18,272 [MainThread] Active threads count: 3
+2024-11-27 10:36:18,831 [Thread-35 (count_word_in_chunk)] Thread current running : 
+2024-11-27 10:36:18,831 [MainThread] Main thread được thread nhả CPU cho chạy tiếp
+2024-11-27 10:36:18,831 [Thread-35 (count_word_in_chunk)] Thread  vào ngủ đông, trả lại cho Main thread chạy
+2024-11-27 10:36:18,832 [MainThread] Active threads count: 4
+2024-11-27 10:36:19,395 [Thread-36 (count_word_in_chunk)] Thread current running : 
+2024-11-27 10:36:19,395 [MainThread] Main thread được thread nhả CPU cho chạy tiếp
+2024-11-27 10:36:19,395 [Thread-36 (count_word_in_chunk)] Thread  vào ngủ đông, trả lại cho Main thread chạy
+2024-11-27 10:36:19,397 [MainThread] Active threads count: 5
+2024-11-27 10:36:19,963 [Thread-37 (count_word_in_chunk)] Thread current running : 
+2024-11-27 10:36:19,963 [MainThread] Main thread được thread nhả CPU cho chạy tiếp
+2024-11-27 10:36:19,963 [Thread-37 (count_word_in_chunk)] Thread  vào ngủ đông, trả lại cho Main thread chạy
+2024-11-27 10:36:19,963 [MainThread] Active threads count: 6
+2024-11-27 10:36:20,518 [Thread-38 (count_word_in_chunk)] Thread current running : 
+2024-11-27 10:36:20,518 [MainThread] Main thread được thread nhả CPU cho chạy tiếp
+2024-11-27 10:36:20,519 [Thread-38 (count_word_in_chunk)] Thread  vào ngủ đông, trả lại cho Main thread chạy
+2024-11-27 10:36:20,520 [MainThread] Active threads count: 7
+2024-11-27 10:36:21,096 [Thread-39 (count_word_in_chunk)] Thread current running : 
+2024-11-27 10:36:21,096 [MainThread] Main thread được thread nhả CPU cho chạy tiếp
+2024-11-27 10:36:21,096 [Thread-39 (count_word_in_chunk)] Thread  vào ngủ đông, trả lại cho Main thread chạy
+2024-11-27 10:36:21,097 [MainThread] Active threads count: 8
+2024-11-27 10:36:21,682 [Thread-40 (count_word_in_chunk)] Thread current running : 
+2024-11-27 10:36:21,682 [MainThread] Main thread được thread nhả CPU cho chạy tiếp
+2024-11-27 10:36:21,682 [Thread-40 (count_word_in_chunk)] Thread  vào ngủ đông, trả lại cho Main thread chạy
+2024-11-27 10:36:21,683 [MainThread] Active threads count: 9
+2024-11-27 10:36:21,684 [MainThread] sinh ra đủ 8 thread , và main thread sẽ chờ 8 thread này chạy xong
+2024-11-27 10:36:37,694 [Thread-33 (count_word_in_chunk)] Thread  đã hết ngủ đông bắt đầu xử lý tiếp 
+2024-11-27 10:36:38,007 [Thread-33 (count_word_in_chunk)] Found 28679 'French' at part_index : 32
+2024-11-27 10:36:38,272 [Thread-34 (count_word_in_chunk)] Thread  đã hết ngủ đông bắt đầu xử lý tiếp 
+2024-11-27 10:36:38,600 [Thread-34 (count_word_in_chunk)] Found 28778 'French' at part_index : 33
+2024-11-27 10:36:38,833 [Thread-35 (count_word_in_chunk)] Thread  đã hết ngủ đông bắt đầu xử lý tiếp 
+2024-11-27 10:36:39,146 [Thread-35 (count_word_in_chunk)] Found 29056 'French' at part_index : 34
+2024-11-27 10:36:39,397 [Thread-36 (count_word_in_chunk)] Thread  đã hết ngủ đông bắt đầu xử lý tiếp 
+2024-11-27 10:36:39,716 [Thread-36 (count_word_in_chunk)] Found 29099 'French' at part_index : 35
+2024-11-27 10:36:39,965 [Thread-37 (count_word_in_chunk)] Thread  đã hết ngủ đông bắt đầu xử lý tiếp 
+2024-11-27 10:36:40,311 [Thread-37 (count_word_in_chunk)] Found 28665 'French' at part_index : 36
+2024-11-27 10:36:40,520 [Thread-38 (count_word_in_chunk)] Thread  đã hết ngủ đông bắt đầu xử lý tiếp 
+2024-11-27 10:36:40,850 [Thread-38 (count_word_in_chunk)] Found 28851 'French' at part_index : 37
+2024-11-27 10:36:41,099 [Thread-39 (count_word_in_chunk)] Thread  đã hết ngủ đông bắt đầu xử lý tiếp 
+2024-11-27 10:36:41,416 [Thread-39 (count_word_in_chunk)] Found 28817 'French' at part_index : 38
+2024-11-27 10:36:41,684 [Thread-40 (count_word_in_chunk)] Thread  đã hết ngủ đông bắt đầu xử lý tiếp 
+2024-11-27 10:36:41,994 [Thread-40 (count_word_in_chunk)] Found 28940 'French' at part_index : 39
+2024-11-27 10:36:42,064 [MainThread] Start time: 2024-11-27 10:36:42
+2024-11-27 10:36:42,064 [MainThread] Elapsed time: 143.59 seconds

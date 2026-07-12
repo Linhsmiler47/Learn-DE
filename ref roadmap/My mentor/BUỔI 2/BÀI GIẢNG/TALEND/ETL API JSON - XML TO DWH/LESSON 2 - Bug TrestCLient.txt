@@ -1,0 +1,1 @@
+Lưu ý : khi tạo context api cho url rest nhớ deactive component, một bug ko refresh được context khi tạo trestclient
