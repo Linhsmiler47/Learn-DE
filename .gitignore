@@ -19,3 +19,14 @@ venv/
 
 # Secrets
 .env
+*.pem
+id_rsa*
+id_ed25519*
+
+# Phase 01 Linux workspace: practice/runtime artifacts only, never the docs
+sandbox/01_linux/workspace/*
+!sandbox/01_linux/workspace/README.md
+
+# Phase 02 Git/GitHub workspace: practice/runtime artifacts only, never the docs
+sandbox/02_git_github/workspace/*
+!sandbox/02_git_github/workspace/README.md
