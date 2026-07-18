@@ -7,5 +7,3 @@ See `LEARNING_PATH.md` for the complete learning roadmap.
 
 Contributions and suggestions are welcome.
 
-Remote fetch/pull practice.
-Second remote-only practice update.
