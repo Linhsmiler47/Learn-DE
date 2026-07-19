@@ -1,6 +1,6 @@
 # Guided Exercise — Lesson 09: Issues, Milestones & Release Management
 
-## Steps
+## Steps to do
 
 1. File a real, actionable issue:
    ```bash
