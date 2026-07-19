@@ -22,6 +22,10 @@ venv/
 *.pem
 id_rsa*
 id_ed25519*
+.env
+.env.*
+!.env.example
+!**/.env.example
 
 # Phase 01 Linux workspace: practice/runtime artifacts only, never the docs
 sandbox/01_linux/workspace/*
