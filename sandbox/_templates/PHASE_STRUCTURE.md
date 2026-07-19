@@ -7,13 +7,24 @@ folder structure and philosophy for every detailed phase module in
 built from here forward (02–26) follows it from the start. Referenced by
 [`../../LEARNING_PATH.md`](../../LEARNING_PATH.md).
 
+## Lesson Count: 5-Core-Lesson Model (Default From Phase 04 Onward)
+
+Phase 01 and Phase 02 were built with 10–12 smaller, single-topic lessons
+each — that model is unchanged for those two and is not retrofitted.
+**Phase 04 onward defaults to ~5 longer, combined-topic lessons instead**,
+approved 2026-07-19. Each lesson covers what would have been 2–3 smaller
+lessons, with the same internal structure (theory, mental model,
+terminology, worked examples, safety notes, troubleshooting, knowledge
+check, completion checklist) just at greater length per file. Use this
+as the default for every new phase unless explicitly told otherwise.
+
 ## Folder Template
 
 ```
 NN_phase_name/
 ├── README.md         Navigation only — objectives, lesson list, folder
 │                     guide, scoring summary, links. Not the content itself.
-├── lessons/          One file per lesson: theory, mental model,
+├── lessons/          ~5 lessons (see above): theory, mental model,
 │                     terminology, worked examples, safety notes,
 │                     troubleshooting, knowledge check, completion checklist.
 ├── exercises/        One subfolder per lesson, each with:

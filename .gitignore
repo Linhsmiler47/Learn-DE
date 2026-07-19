@@ -30,3 +30,7 @@ sandbox/01_linux/workspace/*
 # Phase 02 Git/GitHub workspace: practice/runtime artifacts only, never the docs
 sandbox/02_git_github/workspace/*
 !sandbox/02_git_github/workspace/README.md
+
+# Phase 04 Configuration workspace: practice/runtime artifacts only, never the docs
+sandbox/04_configuration/workspace/*
+!sandbox/04_configuration/workspace/README.md
